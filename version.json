@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.2",
   "download_url": "https://github.com/asaf031244/CyberIL-SPAMER/releases/download/1.0.1/CyberIL_Setup_1.0.1.exe",
-  "release_notes": "✨ גרסה 1.0.1\n\nמה חדש:\n- תיקוני באגים\n- שיפור מערכת החיפוש\n- תצוגת היסטוריית התקפות",
+  "release_notes": "✨ גרסה 1.0.2\n\nמה חדש:\n- תיקוני באגים\n- שיפור מערכת החיפוש\n- תצוגת היסטוריית התקפות",
   "min_supported_version": "1.0.1",
   "required": false
 }
